@@ -1,0 +1,5 @@
+# IDE metafiles
+*.iml
+.idea/
+.vscode/
+temppi
