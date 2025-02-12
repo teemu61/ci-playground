@@ -1,10 +1,7 @@
 name: Pull request
 
 on:
-  pull_request:
-    branches:
-      - master
-  workflow_dispatch: { }
+  push:
 
 jobs:
 
